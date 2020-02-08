@@ -1,2 +1,0 @@
-# MyWebsites
-Created with CodeSandbox
